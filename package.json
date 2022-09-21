@@ -1,0 +1,25 @@
+{
+  "name": "eh5-trivia",
+  "version": "1.0.0",
+  "description": "All-in-one trivia management system",
+  "main": "welcome/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St0nkyCheeseMan/eh5-trivia.git"
+  },
+  "author": "Eric Zou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/St0nkyCheeseMan/eh5-trivia/issues"
+  },
+  "homepage": "https://github.com/St0nkyCheeseMan/eh5-trivia#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
